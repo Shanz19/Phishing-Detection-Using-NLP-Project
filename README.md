@@ -1,1 +1,1 @@
-# hishing-Detection-Using-NLP-Project
+# Phishing-Detection-Using-NLP-Project
